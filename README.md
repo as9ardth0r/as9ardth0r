@@ -2,11 +2,11 @@
 
 <img src="https://github.com/as9ardth0r/as9ardth0r/blob/main/as9ardth0r.jpeg" width="100%" />
 
-# Salut 👋, moi c'est Joël
+# Hi 👋, I'm Joël
 
-**Product Builder & Développeur Full-Stack / Systems**
+**Product Builder & Full-Stack / Systems Developer**
 
-De la maquette UI/UX jusqu'au code bas niveau, j'accompagne vos projets de bout en bout.
+From UI/UX design to low-level code, I build and support your projects from end to end.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](LIEN_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](LIEN_PORTFOLIO)
@@ -17,7 +17,7 @@ De la maquette UI/UX jusqu'au code bas niveau, j'accompagne vos projets de bout 
 
 ---
 
-## 🛠️ Expertises techniques
+## 🛠️ Tech Stack & Expertise
 
 **Backend & Systems**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,34 +29,33 @@ De la maquette UI/UX jusqu'au code bas niveau, j'accompagne vos projets de bout 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Design & UI/UX**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## 🚀 Projets
+## 🚀 Projects
 
 ### [DevShelf](https://github.com/as9ardth0r/devshelf)
-Tableau de bord minimaliste pour développeurs et créatifs, combinant une API FastAPI, un cœur ultra-rapide en Rust et une interface web soignée.
+Minimalist dashboard for developers and creators, combining a FastAPI backend, an ultra-fast Rust core, and a polished web interface.
 
-<!-- Ajoute une capture d'écran si possible :
+<!-- Add a screenshot if possible:
 ![DevShelf preview](URL_IMAGE)
 -->
 
-<!-- Ajoute un deuxième projet si tu en as un, même petit — deux projets valent mieux qu'un seul "en cours" -->
-### [Nom du 2e projet](LIEN)
-Courte description en une ligne.
+### [Project Name 2](LIEN)
+Short one-line description of your second project.
 
 ---
 
-## 📫 Me contacter
+## 📫 Get in touch
 
-- **Email :** [as9ardth0r@gmail.com](mailto:as9ardth0r@gmail.com)
-- **LinkedIn :** LIEN_LINKEDIN
-- **Portfolio :** LIEN_PORTFOLIO
-- **Disponibilité :** précise ici si tu es dispo immédiatement, à temps plein/partiel, en remote, etc. — les clients freelance cherchent cette info en premier
+- **Email:** [as9ardth0r@gmail.com](mailto:as9ardth0r@gmail.com)
+- **LinkedIn:** LIEN_LINKEDIN
+- **Portfolio:** LIEN_PORTFOLIO
+- **Availability:** Specify here if you are available immediately, part-time/full-time, remote, etc.
 
 <div align="center">
 
