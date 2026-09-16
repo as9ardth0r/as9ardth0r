@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Remplace par une vraie bannière si tu en as une, sinon supprime cette ligne -->
-<!-- <img src="URL_DE_TA_BANNIERE" width="100%" /> -->
+<img src="https://github.com/as9ardth0r/as9ardth0r/blob/main/as9ardth0r.jpeg" width="100%" />
 
 # Salut 👋, moi c'est Joël
 
