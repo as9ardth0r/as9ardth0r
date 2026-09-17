@@ -36,7 +36,7 @@ Collision avoidance firmware for a nano-drone — STM32F405, 5-direction ToF sen
 - **LinkedIn** : [joel-broutin-177856437](https://www.linkedin.com/in/joel-broutin-177856437/)  
 - **Portfolio** : [as9ardth0r.github.io/portfolio](https://as9ardth0r.github.io/portfolio)
 
-**✅ Currently available for freelance missions** (remote / hybrid)
+**✅ Currently available for freelance missions — 100% remote only
 
 ---
 
