@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace with a real banner if you have one, otherwise remove this line -->
-<img src="https://github.com/as9ardth0r/portfolio/blob/main/profil.jpeg" width="100%" />
+<img src="https://github.com/as9ardth0r/as9ardth0r/blob/main/as9ardth0r.jpeg" width="100%" />
 
 # Hey 👋, I'm Joël
 
